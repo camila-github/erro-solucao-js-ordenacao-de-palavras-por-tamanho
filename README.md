@@ -1,6 +1,6 @@
-## Treinamento Digital Innovation One - Exercicio - Introdução a busca e substituição em JavaScript
+## Treinamento Digital Innovation One - Exercicio - Ordenação de palavras por tamanho
 
-O exercicio publicado é referente ao treinamento do BOOTCAMP - Desenvolvedor NodeJS - Ordenação e Filtro em JavaScript.
+O exercicio publicado é referente ao treinamento do BOOTCAMP - Desenvolvedor NodeJS - Introdução a busca e substituição em JavaScript.
 (https://digitalinnovation.one)
 
 #### Descrição do Desafio:
