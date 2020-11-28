@@ -22,7 +22,7 @@ One three four mond at midnight | three five one
 one three five |
 
 ```javascript
-// SOLUÇÃO 1
+// SOLUCAO 1
 var listaPalavras = [];
 let totalLinhas = gets();
 /*Será lido a entrada, e separado cada caracter (split()) e armazedo no array (.push()),
